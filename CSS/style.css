@@ -1,0 +1,81 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+}
+/* header page and footer bg */
+.blu {
+  background-color: #244468;
+}
+/* h1 color */
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+
+/* Padding for lovers pages Div 
+.loversPages {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+*/
+
+/* banner img width */
+.banner1 {
+  width: 100%;
+  padding-bottom: 20px;
+}
+/* puppy one page */
+.puppy1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 960px;
+}
+/* puppyone */
+.puppyone,
+.puppy2,
+.missing {
+  width: 32%;
+}
+
+.missing {
+  background-color: #e6445d;
+  width: 310px;
+  height: 310px;
+  text-align: center;
+  font-size: 60px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+/* more puppy34 */
+.puppy34 {
+  display: flex;
+  justify-content: space-between;
+  width: 960px;
+  margin: 0 auto;
+}
+/* more puppy */
+.puppycolor1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 40px;
+}
+/*develop text */
+.develop {
+  width: 100%;
+  text-align: center;
+  font-size: 45px;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 60px;
+  margin-top: 10px;
+}
